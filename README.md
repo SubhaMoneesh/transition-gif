@@ -1,6 +1,6 @@
 # Transition GIF 
 
-#### Video Demo:  
+#### Video Demo: [YouTube](https://youtu.be/_fpCmk1QL0c?si=MIERPWMafdpJMAqW)
 #### Description:
 
 <p>Ever wanted to create a small video out of just the given images? This project is an attempt to make that possible.</p>
