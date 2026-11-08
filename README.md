@@ -88,7 +88,7 @@ Methods:
 </li>
 <li>
 
-`get_blacks_path` : Given two image arrays, it stores the indices of the black pixels in the first image array and maps each of these pixels to the nearest black pixel in the second array based on Euclidean distance.
+`get_blacks_path` : Given two image arrays, it stores the indices of the black pixels in the first image array and maps each of these pixels to the nearest black pixel in the second array based on Manhattan distance.
 </li>
 <li>
 
